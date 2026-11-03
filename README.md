@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Puneetakumar! 👋
 
-<!--
-**karigoudrapuneetakumar-hub/karigoudrapuneetakumar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student (2024–2028)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about programming, software development, and exploring new technologies. Currently improving my coding and problem-solving skills through practical projects and continuous learning.
+
+### 🛠️ Technical Skills
+- C++
+- Python
+- HTML & CSS
+- JavaScript
+- SQL
+- Data Structures & Algorithms
+
+### 🚀 My Projects
+- [Movie Ticket Booking System](https://github.com/karigoudrapuneetakumar-hub/Movie-Ticket-Booking-System)
+- [Smart Resource](https://github.com/karigoudrapuneetakumar-hub/smart-resource)
+- [Campus Resource Manager](https://github.com/karigoudrapuneetakumar-hub/campus-resource-manager)
+
+### 🎯 Current Goals
+- Improve problem-solving skills.
+- Practice Data Structures & Algorithms.
+- Build real-world software projects.
+- Grow as a Software Developer.
+
+### 🔗 Connect With Me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/puneetakumar-karigoudra-b2278b340/)
+- GitHub: [My GitHub Profile](https://github.com/karigoudrapuneetakumar-hub)
